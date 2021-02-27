@@ -4,9 +4,7 @@ categories: [dev]
 comments: true
 ---
 
-### 드림코딩 엘리 Javascript 강의 (3)
-
-### Arrow Function은 무엇인가? 함수의 선언과 표현
+### 드림코딩 엘리 Javascript 강의 (3) - Arrow Function은 무엇인가? 함수의 선언과 표현
 
 ```js
 //Function

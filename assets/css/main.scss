@@ -110,7 +110,7 @@ body {
     // font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', 'Segoe UI',
     //     Roboto, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
     //     'Segoe UI Symbol';
-    font-family: 'Noto Sans KR', sans-serif;
+    font-family: 'Nanum Gothic Coding', monospace;
     margin: 0;
     padding: 0;
     background-color: var(--bg_color);
@@ -348,9 +348,9 @@ img {
 .header_job {
     display: block;
     margin-top: 0.1rem;
-    color: var(--job_font);
+    color: #888;
     font-size: 0.75em;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .theme_changer {
