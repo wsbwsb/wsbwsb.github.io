@@ -107,9 +107,10 @@ body {
     height: 100%;
     font-weight: normal;
     font-style: normal;
-    font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', 'Segoe UI',
-        Roboto, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol';
+    // font-family: -apple-system, BlinkMacSystemFont, 'Titillium Web', 'Segoe UI',
+    //     Roboto, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
+    //     'Segoe UI Symbol';
+    font-family: 'Noto Sans KR', sans-serif;
     margin: 0;
     padding: 0;
     background-color: var(--bg_color);
@@ -237,7 +238,7 @@ img {
     }
 
     @include breakpoint(medium) {
-        max-width: 30rem;
+        max-width: 90%;
         margin-top: 5rem;
     }
 
