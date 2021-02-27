@@ -65,6 +65,7 @@
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    font-weight: 700;
 }
 
 html {
@@ -254,6 +255,7 @@ img {
 
     @include breakpoint(medium) {
         float: right;
+        font-weight: 400;
     }
 }
 
@@ -600,9 +602,10 @@ img {
         color: var(--inlinecode_text);
         padding: 0.1em 0.4em;
         border-radius: 5px;
-        font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono,
-            DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
-            serif;
+        // font-family: Consolas, Menlo, Monaco, Lucida Console, Liberation Mono,
+        //     DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
+        //     serif;
+        font-family: 'Nanum Gothic Coding', monospace;
         font-size: 0.85rem;
     }
 
