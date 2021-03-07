@@ -1,6 +1,6 @@
 ---
 title: Javascript(3) - Arrow Function은 무엇인가? 함수의 선언과 표현
-categories: [dev]
+categories: [study]
 comments: true
 ---
 
