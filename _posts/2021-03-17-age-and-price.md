@@ -11,7 +11,7 @@ comments: true
         padding: 0;
     }
     #wrap{
-        width: 248px;
+        width: 260px;
         margin: 0 auto;
     }
     input{
@@ -19,6 +19,7 @@ comments: true
         height: 35px;
         padding: 0 5px;
         text-align: right;
+        width: 76%;
     }
     button{
         width: 45px;
