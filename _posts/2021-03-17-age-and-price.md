@@ -6,10 +6,6 @@ comments: true
 
 <script src="/js/jquery-3.5.1.min.js"></script>
 <style>
-    *{
-        margin: 0;
-        padding: 0;
-    }
     #wrap{
         width: 260px;
         margin: 0 auto;
