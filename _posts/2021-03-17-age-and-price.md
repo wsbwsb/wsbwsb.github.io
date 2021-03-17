@@ -1,7 +1,7 @@
 ---
 title: 나이 계산기 / 할인가격 계산기
 layout: page
-categories: [practice]
+type: practice
 ---
 
 <script src="/js/jquery-3.5.1.min.js"></script>
